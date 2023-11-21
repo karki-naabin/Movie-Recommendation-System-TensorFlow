@@ -1,4 +1,4 @@
-Movie Recommendation System
+# Movie Recommendation System
 
 This repository features a collaborative filtering movie recommendation system developed with TensorFlow. Trained on user ratings from ratings_small.csv, the model employs embeddings for users and movies, yielding personalized movie suggestions. Key components include:
 
